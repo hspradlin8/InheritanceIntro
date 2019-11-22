@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/bin/Debug/netcoreapp3.0/InheritanceIntro
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/bin/Debug/netcoreapp3.0/InheritanceIntro.deps.json
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/bin/Debug/netcoreapp3.0/InheritanceIntro.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/bin/Debug/netcoreapp3.0/InheritanceIntro.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/bin/Debug/netcoreapp3.0/InheritanceIntro.dll
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/bin/Debug/netcoreapp3.0/InheritanceIntro.pdb
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/obj/Debug/netcoreapp3.0/InheritanceIntro.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/obj/Debug/netcoreapp3.0/InheritanceIntro.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/obj/Debug/netcoreapp3.0/InheritanceIntro.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/obj/Debug/netcoreapp3.0/InheritanceIntro.dll
+/Users/Heidi/workspace/CSharpDemos/InheritanceIntro/obj/Debug/netcoreapp3.0/InheritanceIntro.pdb
